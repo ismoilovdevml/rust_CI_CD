@@ -1,0 +1,12 @@
+[package]
+name = "rust_CI_CD"
+version = "0.3.0"
+authors = ["Otabek Ismoilov <ismoilovdev@gmail.com>"]
+edition = "2022"
+description = ""
+readme = "./README.md"
+keywords = ["rust", "CI/CD", "ismoilovdev", "tutorial"]
+
+
+[dependencies]
+is-odd = "1.0"
