@@ -1,5 +1,6 @@
 use is_ood::IsOdd;
 
+/// Toq raqamlarni filtrlash.
 
 pub fn odd_values(values: &[i32]) -> Vec<i32>{
     if  values.is_empty(){
